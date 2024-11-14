@@ -1,0 +1,4 @@
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\Repository\obj\Debug\net8.0\03-Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\Repository\obj\Debug\net8.0\03-Repository.AssemblyInfoInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\Repository\obj\Debug\net8.0\03-Repository.AssemblyInfo.cs
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\Repository\obj\Debug\net8.0\03-Repository.csproj.CoreCompileInputs.cache

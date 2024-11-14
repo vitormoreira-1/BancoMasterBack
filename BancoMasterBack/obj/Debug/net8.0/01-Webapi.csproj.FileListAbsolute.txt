@@ -1,0 +1,7 @@
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.csproj.AssemblyReference.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.AssemblyInfoInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.AssemblyInfo.cs
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.csproj.CoreCompileInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\BancoMasterBack\obj\Debug\net8.0\01-Webapi.MvcApplicationPartsAssemblyInfo.cache

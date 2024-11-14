@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "BancoMasterBack.WebApi.Controllers.RouteController",
+    "Method": "GetAllRoutesAsync",
+    "RelativePath": "api/Route",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoMasterBack.WebApi.Controllers.RouteController",
+    "Method": "CreateRouteAsync",
+    "RelativePath": "api/Route",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "route",
+        "Type": "BancoMasterBack.Webapi.DTOs.RouteViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoMasterBack.WebApi.Controllers.RouteController",
+    "Method": "DeleteRoute",
+    "RelativePath": "api/Route/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoMasterBack.WebApi.Controllers.RouteController",
+    "Method": "GetLowestCostRouteAsync",
+    "RelativePath": "api/Route/{origin}/{destination}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "origin",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "destination",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
