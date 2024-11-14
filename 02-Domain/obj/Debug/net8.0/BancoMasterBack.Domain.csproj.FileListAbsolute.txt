@@ -1,0 +1,24 @@
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\bin\Debug\net8.0\BancoMasterBack.Domain.deps.json
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\bin\Debug\net8.0\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\bin\Debug\net8.0\BancoMasterBack.Domain.pdb
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.AssemblyInfoInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.AssemblyInfo.cs
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.csproj.CoreCompileInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.sourcelink.json
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\refint\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\BancoMasterBack.Domain.pdb
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\2 - Domain\obj\Debug\net8.0\ref\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\bin\Debug\net8.0\BancoMasterBack.Domain.deps.json
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\bin\Debug\net8.0\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\bin\Debug\net8.0\BancoMasterBack.Domain.pdb
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.AssemblyInfoInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.AssemblyInfo.cs
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.csproj.CoreCompileInputs.cache
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.sourcelink.json
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\refint\BancoMasterBack.Domain.dll
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\BancoMasterBack.Domain.pdb
+D:\Vitor\Projetos\ACTBanconMasterTesteTecnico\BancoMasterBack\02-Domain\obj\Debug\net8.0\ref\BancoMasterBack.Domain.dll
